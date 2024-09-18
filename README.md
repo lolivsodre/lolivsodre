@@ -1,10 +1,14 @@
-Hi, I’m @lolivsodre. I recently finish my Data Science and Analysis certifications in 2022.
-From Psychology to Data Science, I am curious about human behavior through Big Data and its ethics. 
-The contributions of Machine Learning to Psychology and vice versa is also one of my favorito study topics.
-The use of Data Science in Fashion Industry is another subjetc I am very interest in.
-I’m currently learning about those subjects and elaborating a thesis for a Master's application on one of those topics.
-I’m looking to collaborate on scientific papers for publications and projects that combine Data Science with Psychology and Fashion (or both!) 
-How to reach me: l.olivsodre@gmail.com / https://www.linkedin.com/in/luizaosodre307/
+Hi, I'm @lolivsodre, a data-driven explorer passionate about uncovering the stories behind human behavior. My journey has taken me from the depths of psychology to the fascinating world of data science, where I recently completed my certifications in 2022. I'm particularly intrigued by the ethical implications of Big Data and the captivating interplay between machine learning and psychology.  
+
+Currently, I'm delving into the application of data science within the fashion industry, a realm bursting with potential for positive change. I'm currently researching and developing a thesis for my Master's application, focusing on one of these captivating areas. 
+
+I'm always eager to collaborate on research papers and projects that merge data science with psychology and fashion – or all three! If you share my passion for exploring these intersections, please feel free to connect!
+
+Reach me at:
+
+l.olivsodre@gmail.com
+https://www.linkedin.com/in/luizaosodre307/
+
 
 <!---
 lolivsodre/lolivsodre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
